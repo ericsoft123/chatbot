@@ -5,6 +5,8 @@ Step 1: Clone Repository
 
 
 cd project 
+
+
 docker build -t chatapp .
 
 
