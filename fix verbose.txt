@@ -1,0 +1,3 @@
+npm install --save array-unique   //to fix some error
+
+npm install cors //this will install for us cors to be able to request data from browser to server
