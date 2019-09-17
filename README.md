@@ -1,6 +1,12 @@
 # chatbot
 Chatbot
 
+
+
+Note:please make sure your docker is running
+
+
+
 Open your Terminal
 
 
@@ -70,6 +76,10 @@ Server.js :contains route and some code and PORT
 
 index.html:it is a view of this Project
 
+
+Note:This Project has few files and folders and if you want to see same Project but with express generator and some view component
+generator check this Repository
+https://github.com/ericsoft123/chatbot-mvc
 
 for Testing purpose use this Account number or change bank.js under models folder add your own Account on Array Account(please make sure after you change bank.js file rerun project)
 
