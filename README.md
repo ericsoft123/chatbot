@@ -1,6 +1,7 @@
 # chatbot
 Chatbot
 
+Open your Terminal
 Step 1: Clone Repository
 
 git clone https://github.com/ericsoft123/chatbot.git
